@@ -19,7 +19,7 @@
 
 ## 3. Run app.py after obtaining the output files from tasks.
    ### We have to run it on termail by command.
-       ![image](https://github.com/Mohit-krishnia/Internships/assets/98814388/4ce1d519-e59c-4796-afc4-b0e7ea82b14b)
+   ![image](https://github.com/Mohit-krishnia/Internships/assets/98814388/29d54414-b081-431c-bb7f-22e55e760eb3)
    ### And after running this we get an webpage which looks like this in which we see all 3 tasks output.
    ![image](https://github.com/Mohit-krishnia/Internships/assets/98814388/c26a1005-efe7-40ae-8b3b-4c57f06bd3ec)
    ![image](https://github.com/Mohit-krishnia/Internships/assets/98814388/32cadf0d-c31d-4f61-aa01-5d8a1f24e5a6)
